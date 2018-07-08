@@ -1,7 +1,7 @@
 String Style
 ==================
 
-Provides actions for string style convert:
+A idea plugin that provides actions for string style convert.
 
 <p>
     <ul>
